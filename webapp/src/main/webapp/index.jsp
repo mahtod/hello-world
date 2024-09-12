@@ -32,5 +32,6 @@
   </div>
 
    <h1>Thankyou.Latest version of application deployed successfully on Kubernetes cluster</h1>
+   <title>Welcome to My Website</title>
   
 </form>
