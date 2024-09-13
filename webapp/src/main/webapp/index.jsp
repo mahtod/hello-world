@@ -33,7 +33,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1>Thankyou.Latest version of application deployed successfully on Kubernetes cluster</h1>
+   <h1>Thankyou.Latest version of application deployed successfully on Kubernetes cluster. Happy Learning by Dipendra</h1>
    
   
 </form>
