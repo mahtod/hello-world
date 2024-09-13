@@ -1,5 +1,6 @@
 <form action="action_page.php">
   <div class="container">
+    <title>Welcome to My Website</title>
     <h1>New user Register for DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
@@ -32,6 +33,6 @@
   </div>
 
    <h1>Thankyou.Latest version of application deployed successfully on Kubernetes cluster</h1>
-   <title>Welcome to My Website</title>
+   
   
 </form>
