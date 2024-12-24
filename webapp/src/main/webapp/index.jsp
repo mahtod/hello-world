@@ -2,8 +2,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title> hi heloo testing",</title>
-</head>
 <body>
     <h1>Hello this is Docker testing</h1>
     <p>This is a simple JSP page for a web application hosted on Jenkins and linked to a GitHub repository.</p>
