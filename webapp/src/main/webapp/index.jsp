@@ -2,10 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Simple Jenkins and GitHub Project</title>
+    <title>This is Docker project</title>
 </head>
 <body>
-    <h1>Welcome to Jenkins and GitHub Integration Example</h1>
     <h1>Hello this is Docker testing</h1>
     <p>This is a simple JSP page for a web application hosted on Jenkins and linked to a GitHub repository.</p>
     <p>Project Repository: <a href="https://github.com/your-repo-name">GitHub Repository</a></p>
