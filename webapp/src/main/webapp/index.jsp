@@ -1,13 +1,18 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
 <head>
-body>
-    <h1>Hello this is Docker testing</h1>
-    <p>This is a simple JSP page for a web application hosted on Jenkins and linked to a GitHub repository.</p>
-    <p>Project Repository: <a href="https://github.com/your-repo-name">GitHub Repository</a></p>
-    <p>Build Status: <a href="https://jenkins.your-domain.com/job/your-job-name/">Jenkins Build</a></p>
+    <meta charset="UTF-8">
+    <title>Welcome Page</title>
+</head>
+<body>
+    <h1>Welcome to My Web Application</h1>
+    <p>This is a sample template for an index.jsp file.</p>
+    <form action="submit.jsp" method="post">
+        <label for="username">Enter your name:</label>
+        <input type="text" id="username" name="username">
+        <input type="submit" value="Submit">
+    </form>
 </body>
 </html>
-
 
