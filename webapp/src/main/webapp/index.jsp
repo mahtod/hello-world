@@ -6,8 +6,8 @@
     <title>Welcome to Nepal Page</title>
 </head>
 <body>
-    <h1>Kathmandu</h1>
-    <p>This is a sample template for an index.jsp file.</p>
+	<h1>Kathmandu nepal </h1>
+	<p>This is a sample template for an index.jsp file.</p>
     <form action="submit.jsp" method="post">
         <label for="username">Enter your name:</label>
        	<input type="text" id="username" name="username">
